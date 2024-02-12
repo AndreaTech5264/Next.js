@@ -4,5 +4,7 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
+Per iniziare: next dev
+
 CONTINUA DA: 
 creating the dashboard layout 
